@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Conrad Spindler"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/avatar/conradspindler.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sustainability Researcher and Consultant at GreenDelta GmbH"
   location         : "Berlin, Germany"
   email            : "spindler@pvfootprint.com"
@@ -123,7 +123,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:spindler@pvfootprint.com"
+      # url: "mailto:spindler@pvfootprint.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.pvfootprint.com"
