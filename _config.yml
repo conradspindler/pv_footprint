@@ -119,49 +119,35 @@ author:
   bio              : "Sustainability Researcher and Consultant at GreenDelta GmbH"
   location         : "Berlin, Germany"
   email            : "spindler@pvfootprint.com"
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:spindler@pvfootprint.com"
+      url: "mailto:spindler@pvfootprint.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.pvfootprint.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+      url: "https://www.ecolca.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/conradspindler/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/conradspindler"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.github.com/conradspindler"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:spindler@pvfootprint.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ecolca.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/conradspindler/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/conradspindler"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.github.com/conradspindler"
   since: "2026"
 
 
