@@ -1,15 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
@@ -19,8 +7,8 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "PV Footprint"
 title_separator          : "-"
-subtitle                 : "Life Cycle Assessment (LCA) of Photovoltaic (PV) Systems"# site tagline that appears below site title in masthead
-name                     : "Dr. Conrad Spindler"
+subtitle                 : "Life Cycle Assessment (LCA) of Photovoltaic (PV) Systems"
+name                     : "PV Footprint"
 description              : "Standards, Guidelines, Templates, EPD and LCA Results for PV Systems"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Conrad Spindler"
-  avatar           : "/avatar/conradspindler.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/avatar/conradspindler.jpg"
   bio              : "Sustainability Researcher and Consultant at GreenDelta GmbH"
   location         : "Berlin, Germany"
-  email            : "spindler@pvfootprint.com"
+  email            : "spindler@ecolca.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:spindler@pvfootprint.com"
+      # url: "mailto:spindler@ecolca.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.ecolca.com"
@@ -138,7 +126,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:spindler@pvfootprint.com"
+      url: "mailto:spindler@ecolca.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.ecolca.com"
@@ -306,7 +294,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+    _posts
   - scope:
       path: ""
       type: posts
