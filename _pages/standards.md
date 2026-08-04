@@ -9,7 +9,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## General LCA Standards
 
-<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -47,7 +47,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## General EPD Standards
 
-<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -83,9 +83,38 @@ Standards, guidelines and product category rules for the environmental assessmen
   </table>
 </div>
 
+## General EPD Product Category Rules (PCR)
+
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+  <table style="width: 100%; table-layout: auto;">
+    <thead>
+      <tr>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Shortname</th>
+        <th style="position: sticky; top: 0; min-width: 200px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Name</th>
+        <th style="position: sticky; top: 0; min-width: 400px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Title</th>
+        <th style="position: sticky; top: 0; min-width: 150px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Scope</th>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Date</th>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Version</th>
+        <th style="position: sticky; top: 0; min-width: 300px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #3c8062; background: #e8d5b7;">IES c-PCR-016</td>
+        <td style="white-space: nowrap;">IES 2019:14</td>
+        <td style="white-space: nowrap;">International EPD System - Construction products</td>
+        <td style="white-space: nowrap;">EPD</td>
+        <td style="white-space: nowrap;">2025-06</td>
+        <td style="white-space: nowrap;">v2.0.1</td>
+        <td style="white-space: nowrap;"><a href="https://environdec.com/pcr-library/pcr_d2322eee-828a-4995-31a7-08da281808ad">https://environdec.com/pcr-library/pcr_d2322eee-828a-4995-31a7-08da281808ad</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ## EPD Product Category Rules (PCR) for PV
 
-<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -114,7 +143,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## LCA Guidelines for PV
 
-<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -143,7 +172,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## PCF Guidelines for PV
 
-<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
