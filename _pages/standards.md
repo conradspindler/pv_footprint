@@ -9,7 +9,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## General LCA Standards
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px; padding-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -47,7 +47,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## General EPD Standards
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px; padding-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -85,7 +85,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## General EPD Product Category Rules (PCR)
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px; padding-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -114,7 +114,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## EPD Product Category Rules (PCR) for PV
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px; padding-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -143,7 +143,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## LCA Guidelines for PV
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px; padding-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -172,7 +172,7 @@ Standards, guidelines and product category rules for the environmental assessmen
 
 ## PCF Guidelines for PV
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px; padding-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
