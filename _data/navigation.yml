@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Data"
     url: /data/
   - title: "Standards"
@@ -7,3 +9,5 @@ main:
     url: /results/
   - title: "Templates"
     url: /templates/
+  - title: "Imprint"
+    url: /imprint/
