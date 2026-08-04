@@ -111,7 +111,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:spindler@ecolca.com"
-    - label: "Website"
+    - label: "About me"
       icon: "fas fa-fw fa-link"
       url: "https://www.ecolca.com"
     - label: "LinkedIn"
