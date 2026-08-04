@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "PV Data"
-    url: /pv_data/
-  - title: "PV Standards"
-    url: /pv_standards/
-  - title: "PV Results"
-    url: /pv_results/
+  - title: "Data"
+    url: /data/
+  - title: "Standards"
+    url: /standards/
+  - title: "Results"
+    url: /results/
   - title: "About me"
     url: https://www.ecolca.com
   # - title: "About"
