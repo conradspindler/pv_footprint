@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Standards (Icons)"
+title: "Standards"
 permalink: /standards2/
 author_profile: true
 ---
