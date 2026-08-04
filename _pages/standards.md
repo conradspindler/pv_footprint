@@ -7,17 +7,17 @@ author_profile: true
 
 Guidelines and standards for environmental assessments of photovoltaic systems
 
-<div style="overflow: auto; max-height: 600px;">
-  <table>
+<div style="overflow: auto; max-height: 600px; width: 100%;">
+  <table style="width: 100%; table-layout: fixed;">
     <thead>
       <tr>
-        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Shortname</th>
-        <th style="position: sticky; top: 0; min-width: 150px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Name</th>
-        <th style="position: sticky; top: 0; min-width: 300px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Title</th>
-        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Scope</th>
-        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Date</th>
-        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Version</th>
-        <th style="position: sticky; top: 0; min-width: 200px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Link</th>
+        <th style="position: sticky; top: 0; min-width: 120px; width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Shortname</th>
+        <th style="position: sticky; top: 0; min-width: 200px; width: 200px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Name</th>
+        <th style="position: sticky; top: 0; min-width: 400px; width: 400px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Title</th>
+        <th style="position: sticky; top: 0; min-width: 150px; width: 150px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Scope</th>
+        <th style="position: sticky; top: 0; min-width: 120px; width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Date</th>
+        <th style="position: sticky; top: 0; min-width: 120px; width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Version</th>
+        <th style="position: sticky; top: 0; min-width: 300px; width: 300px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Link</th>
       </tr>
     </thead>
     <tbody>
