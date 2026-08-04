@@ -2,8 +2,6 @@
 main:
   - title: "Standards"
     url: /standards/
-  - title: "Standards (Icons)"
-    url: /standards2/
   - title: "About me"
     url: https://www.ecolca.com
   # - title: "About"
