@@ -5,9 +5,7 @@ permalink: /standards/
 author_profile: true
 ---
 
-# Guidelines and standards for environmental assessments of photovoltaic systems.
-
-Below is a list of relevant documents.
+Guidelines and standards for environmental assessments of photovoltaic systems
 
 <div style="overflow: auto; max-height: 600px;">
   <table>
