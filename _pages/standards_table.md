@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Standards"
-permalink: /standards/
+permalink: /standards_table/
 author_profile: true
 ---
 
