@@ -5,11 +5,9 @@ permalink: /standards/
 author_profile: true
 ---
 
-# Guidelines and standards for environmental assessments of photovoltaic systems
+Guidelines and standards for environmental assessments of photovoltaic systems
 
-Below is a list of relevant documents.
-
-## LCA Standards
+## General LCA Standards
 
 <div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
@@ -47,7 +45,7 @@ Below is a list of relevant documents.
   </table>
 </div>
 
-## EPD Standards
+## General EPD Standards
 
 <div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
@@ -114,7 +112,36 @@ Below is a list of relevant documents.
   </table>
 </div>
 
-## LCA Guidelines
+## LCA Guidelines for PV
+
+<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+  <table style="width: 100%; table-layout: auto;">
+    <thead>
+      <tr>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Shortname</th>
+        <th style="position: sticky; top: 0; min-width: 200px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Name</th>
+        <th style="position: sticky; top: 0; min-width: 400px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Title</th>
+        <th style="position: sticky; top: 0; min-width: 150px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Scope</th>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Date</th>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Version</th>
+        <th style="position: sticky; top: 0; min-width: 300px; text-align: left; z-index: 10; border-bottom: 2px solid #3c8062; font-weight: bold;">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #3c8062; background: #e8d5b7;">IEA-PVPS LCA-2020</td>
+        <td style="white-space: nowrap;">IEA-PVPS T12-18:2020</td>
+        <td style="white-space: nowrap;">Methodology Guidelines on Life Cycle Assessment of Photovoltaic 2020</td>
+        <td style="white-space: nowrap;">LCA</td>
+        <td style="white-space: nowrap;">2020-04</td>
+        <td style="white-space: nowrap;">4th Edition</td>
+        <td style="white-space: nowrap;"><a href="https://iea-pvps.org/key-topics/methodology-guidelines-on-life-cycle-assessment-of-photovoltaic-2020/">https://iea-pvps.org/key-topics/methodology-guidelines-on-life-cycle-assessment-of-photovoltaic-2020/</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## PCF Guidelines for PV
 
 <div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
