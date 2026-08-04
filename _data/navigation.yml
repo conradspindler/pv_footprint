@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Standards"
-    url: /standards/
+  - title: "PV Data"
+    url: /pv_data/
+  - title: "PV Standards"
+    url: /pv_studies/
+  - title: "PV Standards"
+    url: /pv_standards/
   - title: "About me"
     url: https://www.ecolca.com
   # - title: "About"
