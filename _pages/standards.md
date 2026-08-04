@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "PV Standards"
-permalink: /pv_standards/
+title: "Standards"
+permalink: /standards/
 author_profile: true
 ---
 
