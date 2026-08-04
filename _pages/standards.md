@@ -5,11 +5,11 @@ permalink: /standards/
 author_profile: true
 ---
 
-Guidelines and standards for environmental assessments of photovoltaic systems
+Standards, guidelines and product category rules for the environmental assessments of photovoltaic systems.
 
 ## General LCA Standards
 
-<div style="overflow: auto; max-height: 600px; width: 150%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -47,7 +47,7 @@ Guidelines and standards for environmental assessments of photovoltaic systems
 
 ## General EPD Standards
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -63,7 +63,7 @@ Guidelines and standards for environmental assessments of photovoltaic systems
     <tbody>
       <tr>
         <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #3c8062; background: #e8d5b7;">EN 15804</td>
-        <td style="white-space: nowrap;">EN 15804:2012+A2:2019 + AC:2021</td>
+        <td style="white-space: nowrap;">EN 15804:2012+A2:2019+AC:2021</td>
         <td style="white-space: nowrap;">Sustainability of construction works - Environmental product declarations - Core rules for the product category of construction products</td>
         <td style="white-space: nowrap;">EPD</td>
         <td style="white-space: nowrap;">2022-03</td>
@@ -85,7 +85,7 @@ Guidelines and standards for environmental assessments of photovoltaic systems
 
 ## EPD Product Category Rules (PCR) for PV
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -101,8 +101,8 @@ Guidelines and standards for environmental assessments of photovoltaic systems
     <tbody>
       <tr>
         <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #3c8062; background: #e8d5b7;">IES c-PCR-016</td>
-        <td style="white-space: nowrap;">2019:14-c-PCR-016</td>
-        <td style="white-space: nowrap;">Photovoltaic modules and parts thereof (c-PCR to PCR 2019:14)</td>
+        <td style="white-space: nowrap;">IES 2019:14-c-PCR-016</td>
+        <td style="white-space: nowrap;">International EPD System - Photovoltaic modules and parts thereof</td>
         <td style="white-space: nowrap;">EPD</td>
         <td style="white-space: nowrap;">2022-04</td>
         <td style="white-space: nowrap;">v1.2</td>
@@ -114,7 +114,7 @@ Guidelines and standards for environmental assessments of photovoltaic systems
 
 ## LCA Guidelines for PV
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
@@ -143,7 +143,7 @@ Guidelines and standards for environmental assessments of photovoltaic systems
 
 ## PCF Guidelines for PV
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 120%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
