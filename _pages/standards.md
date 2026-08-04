@@ -5,9 +5,9 @@ permalink: /standards/
 author_profile: true
 ---
 
-# Standards for Life Cycle Assessment (LCA) of Photovoltaic (PV) Systems
+# Guidelines and standards for environmental assessments of photovoltaic systems.
 
-Below is a list of relevant standards and guidelines for conducting Life Cycle Assessment (LCA) of Photovoltaic (PV) systems.
+Below is a list of relevant documents.
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <table>
