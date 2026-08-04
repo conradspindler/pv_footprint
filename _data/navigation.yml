@@ -4,8 +4,8 @@ main:
     url: /pv_data/
   - title: "PV Standards"
     url: /pv_standards/
-  - title: "PV Studies"
-    url: /pv_studies/
+  - title: "PV Results"
+    url: /pv_results/
   - title: "About me"
     url: https://www.ecolca.com
   # - title: "About"
