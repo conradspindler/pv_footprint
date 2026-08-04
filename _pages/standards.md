@@ -9,7 +9,7 @@ Guidelines and standards for environmental assessments of photovoltaic systems
 
 ## General LCA Standards
 
-<div style="overflow: auto; max-height: 600px; width: 100%; max-width: 100%; margin-bottom: 20px;">
+<div style="overflow: auto; max-height: 600px; width: 150%; margin-bottom: 20px;">
   <table style="width: 100%; table-layout: auto;">
     <thead>
       <tr>
