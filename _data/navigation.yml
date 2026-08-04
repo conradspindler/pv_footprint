@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "Data"
     url: /data/
@@ -6,13 +5,5 @@ main:
     url: /standards/
   - title: "Results"
     url: /results/
-  - title: "About me"
-    url: https://www.ecolca.com
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Templates"
+    url: /templates/
