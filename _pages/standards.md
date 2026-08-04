@@ -70,6 +70,7 @@ Standards, guidelines and product category rules for the environmental assessmen
       <p style="margin: 5px 0 0 0; font-size: 12px; color: #888;">ISO 14067:2018 | 2018-08</p>
     </a>
   </div>
+</div>
 
 ## EPD Product Category Rules (PCR)
 
