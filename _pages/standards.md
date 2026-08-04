@@ -13,18 +13,18 @@ Below is a list of relevant documents.
   <table>
     <thead>
       <tr>
-        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10;">Shortname</th>
-        <th style="position: sticky; top: 0; min-width: 150px; text-align: left; z-index: 10;">Name</th>
-        <th style="position: sticky; top: 0; min-width: 300px; text-align: left; z-index: 10;">Title</th>
-        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10;">Scope</th>
-        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10;">Date</th>
-        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10;">Version</th>
-        <th style="position: sticky; top: 0; min-width: 200px; text-align: left; z-index: 10;">Link</th>
+        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Shortname</th>
+        <th style="position: sticky; top: 0; min-width: 150px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Name</th>
+        <th style="position: sticky; top: 0; min-width: 300px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Title</th>
+        <th style="position: sticky; top: 0; min-width: 120px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Scope</th>
+        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Date</th>
+        <th style="position: sticky; top: 0; min-width: 100px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Version</th>
+        <th style="position: sticky; top: 0; min-width: 200px; text-align: left; z-index: 10; border-bottom: 2px solid #ddd; font-weight: bold;">Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="position: sticky; left: 0; white-space: nowrap;">ISO 14040</td>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #ddd;">ISO 14040</td>
         <td style="white-space: nowrap;">ISO 14040:2006/Amd 1:2020</td>
         <td style="white-space: nowrap;">Environmental Management - Life Cycle Assessment - Principles and Framework</td>
         <td style="white-space: nowrap;">LCA, EPD, PCF</td>
@@ -33,7 +33,7 @@ Below is a list of relevant documents.
         <td style="white-space: nowrap;"><a href="https://www.iso.org/standard/76121.html">https://www.iso.org/standard/76121.html</a></td>
       </tr>
       <tr>
-        <td style="position: sticky; left: 0; white-space: nowrap;">ISO 14044</td>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #ddd;">ISO 14044</td>
         <td style="white-space: nowrap;">ISO 14044:2006/Amd 2:2020</td>
         <td style="white-space: nowrap;">Environmental Management - Life Cycle Assessment - Requirements and Guidelines</td>
         <td style="white-space: nowrap;">LCA, EPD, PCF</td>
@@ -42,7 +42,7 @@ Below is a list of relevant documents.
         <td style="white-space: nowrap;"><a href="https://www.iso.org/standard/76122.html">https://www.iso.org/standard/76122.html</a></td>
       </tr>
       <tr>
-        <td style="position: sticky; left: 0; white-space: nowrap;">EN 15804</td>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #ddd;">EN 15804</td>
         <td style="white-space: nowrap;">EN 15804:2012+A2:2019 + AC:2021</td>
         <td style="white-space: nowrap;">Sustainability of construction works - Environmental product declarations - Core rules for the product category of construction products</td>
         <td style="white-space: nowrap;">EPD</td>
@@ -51,7 +51,7 @@ Below is a list of relevant documents.
         <td style="white-space: nowrap;"><a href="https://www.dinmedia.de/en/standard/din-en-15804/344735627">https://www.dinmedia.de/en/standard/din-en-15804/344735627</a></td>
       </tr>
       <tr>
-        <td style="position: sticky; left: 0; white-space: nowrap;">ISO 21930</td>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #ddd;">ISO 21930</td>
         <td style="white-space: nowrap;">ISO 21930:2017</td>
         <td style="white-space: nowrap;">Sustainability in buildings and civil engineering works - Core rules for environmental product declarations of construction products and services</td>
         <td style="white-space: nowrap;">EPD</td>
@@ -60,7 +60,7 @@ Below is a list of relevant documents.
         <td style="white-space: nowrap;"><a href="https://www.iso.org/standard/61694.html">https://www.iso.org/standard/61694.html</a></td>
       </tr>
       <tr>
-        <td style="position: sticky; left: 0; white-space: nowrap;">IES c-PCR-016</td>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #ddd;">IES c-PCR-016</td>
         <td style="white-space: nowrap;">2019:14-c-PCR-016</td>
         <td style="white-space: nowrap;">Photovoltaic modules and parts thereof (c-PCR to PCR 2019:14)</td>
         <td style="white-space: nowrap;">EPD</td>
@@ -69,7 +69,7 @@ Below is a list of relevant documents.
         <td style="white-space: nowrap;"><a href="https://environdec.com/pcr-library/pcr_d2322eee-828a-4995-31a7-08da281808ad">https://environdec.com/pcr-library/pcr_d2322eee-828a-4995-31a7-08da281808ad</a></td>
       </tr>
       <tr>
-        <td style="position: sticky; left: 0; white-space: nowrap;">IEA-PVPS LCA-2020</td>
+        <td style="position: sticky; left: 0; white-space: nowrap; font-weight: bold; border-right: 2px solid #ddd;">IEA-PVPS LCA-2020</td>
         <td style="white-space: nowrap;">IEA-PVPS T12-18:2020</td>
         <td style="white-space: nowrap;">Methodology Guidelines on Life Cycle Assessment of Photovoltaic 2020</td>
         <td style="white-space: nowrap;">LCA</td>
